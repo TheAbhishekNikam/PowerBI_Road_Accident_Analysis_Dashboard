@@ -20,8 +20,8 @@ This project helps policymakers, analysts, and road safety authorities understan
 ---
 
 ##  Files Included
-- **Road_Accident_Analysis.pbix** – The main Power BI file containing all data visualizations.
-- **Road_Accident_Analysis_Dashboard.png** – Contains screenshots of the dashboard.
+- **Road_Accident_Data_Analysis.pbix** – The main Power BI file containing all data visualizations.
+- **Road_Accident_Data_Analysis_Dashboard.png** – Contains screenshots of the dashboard.
 - **README.md** – Documentation of the project.
 
 ---
