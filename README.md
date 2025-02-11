@@ -2,6 +2,7 @@
 
 
 📌 Overview
+
 This Power BI Dashboard provides an in-depth analysis of global road accidents, focusing on key factors such as accident severity, weather conditions, road types, driver gender, and economic impact. It helps in understanding patterns and trends to improve road safety measures.
 
 
